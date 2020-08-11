@@ -3,7 +3,7 @@ import lib.kh.studycore;
 public class App extends studycore {
     public static void main(String[] args) throws Exception {
 
-        asdf = 1;
+        asdf = 2;
 
         System.out.println("Hello, World!");
 
