@@ -3,7 +3,7 @@ import lib.kh.studycore;
 public class App extends studycore {
     public static void main(String[] args) throws Exception {
 
-        asdf = 1;//값이 2면 시스템 오류가 발생함
+        asdf = 1;//값이 2면 시스템 오류 발생하므로 1로 수정함
 
         System.out.println("Hello, World!");
 
